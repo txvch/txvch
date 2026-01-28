@@ -1,4 +1,4 @@
-# Hey, Tech here! and this is how you write a crip walk over a blood function:
+# Tech here! and this is how you write a crip walk over a blood function:
 
 ```python
 def blood_function():
