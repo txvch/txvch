@@ -10,7 +10,7 @@ def crip_walk():
     print("🟦🕺 Finished sliding over the blood function 🕺🟦")
 
 def main():
-    print("King Von in the function wit it... 💀🍊")
+    print("King Von in the function wit it... 💀")
     crip_walk()
     print("Back to O'Block code 🏚💯")
 
